@@ -1,0 +1,60 @@
+#nav {
+    --menu-color: #bdbdbd;
+    --menu-background: transparent;
+    --menu-color-hover: #ffffff;
+    --menu-background-hover: #313131;
+    --menu-color-active: #bdbdbd;
+    --menu-background-active: #111111;
+
+    --menu-sub-color: #bdbdbd;
+    --menu-sub-background: #111111;
+    --menu-sub-color-hover: #ffffff;
+    --menu-sub-background-hover: #313131;
+    --menu-sub-color-active: #bdbdbd;
+    --menu-sub-background-active: #b0b5c2;
+
+    --menu-sub-2-color: #bdbdbd;
+    --menu-sub-2-background: #111111;
+    --menu-sub-2-color-hover: #ffffff;
+    --menu-sub-2-background-hover: #313131;
+    --menu-sub-2-color-active: #bdbdbd;
+    --menu-sub-2-background-active: #b0b5c2;
+
+    --menu-border-color: #363636;
+    --menu-border-color-side: #222222;
+}
+
+body {
+    --color-success: #1fbb26;
+    --color-info: #008ae8;
+    --color-warning: #fd7a13;
+    --color-danger: #f00;
+    --color-dim: #858484;
+
+    --border-color-tiny: #d9d9d9;
+    --border-color-midle: #caccd3;
+    --border-color-strong: #caccd3;
+    --border-color-selected: #008ae8;
+
+    --heading-color: #bdbdbd;
+    --main-color: #bdbdbd;
+    --tiny-color: #666666;
+
+    --background-color: #000;
+    --background-color-1: #222222;
+    --background-color-2: #ece9f9;
+    --background-color-3: #e8e1ff;
+    --background-color-4: #eeeeee;
+    --background-search-key: #ffff00;
+
+    --link-color: #0077e4;
+    --primary-color: #7b5bb9;
+
+    --input-background: #313131;
+}
+
+.btn-bar-top {
+    --btn-background: #006cdb;
+    --btn-primary-background: #7b5bb9;
+    --btn-danger-background: #5340bc;
+}
